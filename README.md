@@ -25,6 +25,8 @@ Tenho experiência anterior com atendimento ao cliente e rotinas administrativas
 
 - [Projeto 1 – Spotify](https://github.com/ThainaFontanezi/Projeto-Spotify.git)
 - [Projeto 2 – Dragon Ball Z ](https://github.com/ThainaFontanezi/Dragon-ball-z-html-css-javaS.git)
+- [Projeto 3- Portfólio Pessoal](https://github.com/ThainaFontanezi/Primeiro-portfolio)
+
 
 
 ## 📫 Como me encontrar
