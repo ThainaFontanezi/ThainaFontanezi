@@ -31,6 +31,7 @@ Tenho experiência anterior com atendimento ao cliente e rotinas administrativas
 - [Projeto 2 – Dragon Ball Z ](https://github.com/ThainaFontanezi/Dragon-ball-z-html-css-javaS.git)
 - [Projeto 3- Portfólio Pessoal](https://github.com/ThainaFontanezi/Primeiro-portfolio)
 - [Projeto 4 - Formulário Corretores de Imóveis](https://github.com/ThainaFontanezi/formul-rio-corretores.git)
+- [Projeto 5 - Calculadora](https://github.com/ThainaFontanezi/Calculadora.git)
 
 
 ## 📫 Como me encontrar
