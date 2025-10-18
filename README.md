@@ -32,6 +32,7 @@ Tenho experiência anterior com atendimento ao cliente e rotinas administrativas
 - [Projeto 3- Portfólio Pessoal](https://github.com/ThainaFontanezi/Primeiro-portfolio)
 - [Projeto 4 - Formulário Corretores de Imóveis](https://github.com/ThainaFontanezi/formul-rio-corretores.git)
 - [Projeto 5 - Calculadora](https://github.com/ThainaFontanezi/Calculadora.git)
+- [Projeto 6 - Apple-Watch](https://github.com/ThainaFontanezi/Apple-Watch.git)
 
 
 ## 📫 Como me encontrar
