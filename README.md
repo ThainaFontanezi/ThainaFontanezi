@@ -18,6 +18,7 @@ Tenho experiência anterior com atendimento ao cliente e rotinas administrativas
 - HTML5
 - CSS3
 - JavaScript
+- TypeScript
 - Git e GitHub
 - Saas
 - React JS
