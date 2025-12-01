@@ -5,7 +5,7 @@
 🎯 Em transição de carreira para a área de Desenvolvimento Front-End  
 🎓 Graduanda em Gestão da Tecnologia da Informação   
 💻 Estudando FrontEnd
-🚀 Buscando minha primeira oportunidade como estagiária ou desenvolvedora júnior
+🚀 Buscando minha primeira oportunidade como desenvolvedora júnior
 
 ## 💡 Sobre mim
 
