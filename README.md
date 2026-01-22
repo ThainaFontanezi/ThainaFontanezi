@@ -30,6 +30,7 @@ Projeto colaborativo desenvolvido com **React, TypeScript e Tailwind CSS**, segu
 
 ## 📫 Contato
 - 💼 LinkedIn: https://www.linkedin.com/in/thainá-fontanezi-de-oliveira-61356b165/  
-- ✉️ E-mail: *adicione se quiser*  
+- ✉️ E-mail: thainafontanezi96@outlook.com
+- 📱 Telefone: (21) 99891-6236
 
 ✨ Obrigada por visitar meu perfil! Estou aberta a oportunidades e conexões na área de desenvolvimento front-end.
