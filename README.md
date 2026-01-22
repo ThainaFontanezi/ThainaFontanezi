@@ -1,48 +1,35 @@
+👋 Olá! Eu sou a Thainá Fontanezi
 
-
-# 👋 Olá! Eu sou a Thainá Fontanezi
-
-🎯 Em transição de carreira para a área de Desenvolvimento Front-End  
-🎓 Graduanda em Gestão da Tecnologia da Informação   
-💻 Estudando FrontEnd
-🚀 Buscando minha primeira oportunidade como desenvolvedora júnior
+🎯 Desenvolvedora Front-End em formação  
+🎓 Graduanda em Gestão da Tecnologia da Informação  
+💻 Foco em React, TypeScript e interfaces responsivas  
+🚀 Em busca da minha primeira oportunidade como Desenvolvedora Front-End Júnior
 
 ## 💡 Sobre mim
+Sou apaixonada por aprender e construir soluções com código.  
+Atualmente desenvolvo projetos front-end com foco em **boas práticas, responsividade, componentização e organização de código**.
 
-Sou apaixonada por aprender e construir coisas novas com código.  
-Atualmente, estou desenvolvendo projetos para praticar responsividade, boas práticas e estruturação de páginas web.  
-Tenho experiência anterior com atendimento ao cliente e rotinas administrativas, o que contribui para meu trabalho em equipe, organização e comunicação.
+Tenho experiência anterior com atendimento ao cliente e rotinas administrativas, o que fortaleceu minhas habilidades de **comunicação, organização e trabalho em equipe**.
 
-## 🧰 Tecnologias que estou aprendendo
+## 🧰 Tecnologias
+- HTML5  
+- CSS3  
+- JavaScript  
+- TypeScript  
+- React  
+- Tailwind CSS  
+- Git e GitHub  
+- Noções de UX/UI  
 
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- Git e GitHub
-- Saas
-- React JS
-- Noções de UX
-- Web Services - Client
+## 🚀 Projeto em destaque
+🔹 **Feu Studios — Site Institucional (SPA)**  
+Projeto colaborativo desenvolvido com **React, TypeScript e Tailwind CSS**, seguindo fluxo de trabalho com branches e Pull Requests.
 
+👉 Deploy: https://feu-studios.vercel.app/  
+👉 Repositório: https://github.com/cardrocha/Feu-Studios  
 
-## 📂 Meus projetos
+## 📫 Contato
+- 💼 LinkedIn: https://www.linkedin.com/in/thainá-fontanezi-de-oliveira-61356b165/  
+- ✉️ E-mail: *adicione se quiser*  
 
-- [Projeto 1 – Spotify](https://github.com/ThainaFontanezi/Projeto-Spotify.git)
-- [Projeto 2 – Dragon Ball Z ](https://github.com/ThainaFontanezi/Dragon-ball-z-html-css-javaS.git)
-- [Projeto 3- Portfólio Pessoal](https://github.com/ThainaFontanezi/Primeiro-portfolio)
-- [Projeto 4 - Formulário Corretores de Imóveis](https://github.com/ThainaFontanezi/formul-rio-corretores.git)
-- [Projeto 5 - Calculadora](https://github.com/ThainaFontanezi/Calculadora.git)
-- [Projeto 6 - Apple-Watch](https://github.com/ThainaFontanezi/Apple-Watch.git)
-- [Projeto 7 - Starbucks](https://github.com/ThainaFontanezi/Starbucks)
-
-
-## 📫 Como me encontrar
-
-- [LinkedIn](https://www.linkedin.com/in/thainá-fontanezi-de-oliveira-61356b165/)
-- [E-mail](mailto:thainafontanezi96@outlook.com)
-📱 21-99891-6236
-
----
-
-✨ Obrigada por visitar meu perfil! Estou aberta a oportunidades, colaborações e conexões na área de tecnologia. 🚀
+✨ Obrigada por visitar meu perfil! Estou aberta a oportunidades e conexões na área de desenvolvimento front-end.
